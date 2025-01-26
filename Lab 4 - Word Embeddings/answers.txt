@@ -1,0 +1,43 @@
+
+Student 1: Mohamed Tarek
+Student 2: Malek ESSAM 
+
+Q1:
+
+number of embeddings in the dictionary
+
+
+Q2:
+
+length of vector representing the word 'Spain'
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Yes 
+
+
+Q4:
+
+because the city of Cairo is the capital of Egypt.
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Yes
+
+
+Q6:
+
+words with same meaning are close to each other like (gas,oil, petroleum) and (happy, joyful)
+
+
